@@ -19,7 +19,7 @@ plt.rcParams['axes.unicode_minus'] = False  # 解决负号显示问题
 np.random.seed(42)
 
 # 输出目录
-OUTPUT_DIR = r"C:\Users\86159\Desktop\综合大作业"
+OUTPUT_DIR = r"C:\Users\86159\Desktop\赵佳瑞week2\综合大作业"
 
 
 # =====================================================
